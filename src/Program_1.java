@@ -9,10 +9,10 @@ public class Program_1 {
 		// TODO Auto-generated method stub
 
 	
-		String key="webdriver.gecko.driver";
-		String value="./Drivers/geckodriver.exe";
-		/*String key="webdriver.chrome.driver";
-		String value="./Drivers/chromedriver.exe";*/
+		/*String key="webdriver.gecko.driver";
+		String value="./Drivers/geckodriver.exe";*/
+		String key="webdriver.chrome.driver";
+		String value="./Drivers/chromedriver.exe";
 		
 		System.setProperty(key, value);
 		
